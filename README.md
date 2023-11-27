@@ -1,4 +1,4 @@
-# notf
+# Notification App
 
 A new Flutter project.
 
